@@ -38,6 +38,7 @@ The performances on the datasets, and their behaviors when using different hyper
 
 ## Citation
 If you find this repo useful, please cite our paper:
+
 ```
 @article{Wang2023WOTClassWS,
   title={WOT-Class: Weakly Supervised Open-world Text Classification},
