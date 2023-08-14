@@ -24,9 +24,7 @@ The datasets can be accessed at `data/`.
 
 The methods are implemented in `src/`.
 
-To run our code on a dataset (e.g., AGNews), please first follow the guide of [CGExpan](https://github.com/yzhan238/CGExpan) or [HiExpan](https://github.com/mickeysjm/HiExpan) to process the raw data and get the `entity2id.txt` and `sentences.json` files under the training dataset file (already provided for our datasets).
-
-Then, you can train and test our method by calling `src/run.sh`.
+To train and evaluate our method on a dataset (e.g., AGNews), you may run
 
 ```
 cd src
