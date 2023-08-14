@@ -5,7 +5,7 @@ Please download our datasets from [Google Drive](https://drive.google.com/drive/
 
 
 # How to add a new dataset
-We split our train and test stage, so if you want to run our method on a new dataset, make sure there should be two folders `{new_dataset}_train` for train and `{new_dataset}_test` for test.
+We split our train and test stage, so if you want to run our method on a new dataset, make sure you have two folders `{new_dataset}_train` for train and `{new_dataset}_test` for test.
 
 In `{new_dataset}_train` folder, you should provide
 

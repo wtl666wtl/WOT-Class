@@ -6,3 +6,4 @@ sentencepiece==0.1.91
 transformers==3.0.2
 tensorboardX
 faiss-gpu
+spacy
